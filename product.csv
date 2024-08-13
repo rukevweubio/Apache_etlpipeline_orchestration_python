@@ -1,0 +1,1001 @@
+product_id,ProductName,PaymentType,UnitPrice,StoreLocation,PromotionApplied,OrderType
+1,Vanilla Cake,Cash,12.532304149429804,South,True,In Store
+2,Red Velvet Cake,Cash,7.083069895947755,South,False,In Store
+3,Chocolate Cake,Cash,6.736064100180581,North,True,Phone Order
+4,Carrot Cake,Cash,7.314823479246191,North,False,Online Order
+5,Pizza Pepperoni,Credit Card,7.577727219906418,East,True,In Store
+6,Red Velvet Cake,Cash,14.568156389954508,West,True,Phone Order
+7,Red Velvet Cake,Credit Card,16.114718754118677,North,False,In Store
+8,Carrot Cake,Online,12.94987284389628,West,False,Online Order
+9,Carrot Cake,Cash,17.435265988182366,East,True,Phone Order
+10,Pizza Margherita,Credit Card,19.8689484010045,West,False,In Store
+11,Chocolate Cake,Online,17.30018943679034,South,False,In Store
+12,Carrot Cake,Online,15.423235605139388,West,False,In Store
+13,Pizza Beef Double decker,Online,12.9873904915572,East,True,Online Order
+14,Cheesecake,Credit Card,11.732796075120625,East,False,Phone Order
+15,Pizza Pepperoni,Cash,6.265885708168135,East,False,Phone Order
+16,Chocolate Cake,Cash,10.990531225920364,West,True,Phone Order
+17,Pizza Beef Double decker,Credit Card,18.65201955173201,South,False,In Store
+18,Vanilla Cake,Cash,17.120339448598294,North,False,Phone Order
+19,Carrot Cake,Credit Card,8.240770475175308,South,True,In Store
+20,Carrot Cake,Cash,11.999116770458238,West,True,Online Order
+21,Red Velvet Cake,Online,17.25084803837817,West,False,Phone Order
+22,Pizza Beef Double decker,Cash,6.010768321782837,North,False,In Store
+23,Red Velvet Cake,Credit Card,10.810888785029888,West,True,Phone Order
+24,Pizza Margherita,Credit Card,17.777618553109214,East,True,Phone Order
+25,Red Velvet Cake,Online,11.058467962551855,East,False,Online Order
+26,Pizza Margherita,Credit Card,6.1642196709716135,East,False,Phone Order
+27,Pizza Margherita,Cash,13.138015527983772,East,False,Online Order
+28,Carrot Cake,Cash,17.926137423774428,East,True,Phone Order
+29,Vanilla Cake,Online,13.854283144297396,West,False,Phone Order
+30,Red Velvet Cake,Credit Card,8.394186623213477,North,True,Phone Order
+31,Pizza Beef Double decker,Online,10.76359430206072,North,True,Phone Order
+32,Pizza Margherita,Cash,11.751850417728985,East,True,Phone Order
+33,Carrot Cake,Online,13.688995307307902,West,False,Phone Order
+34,Pizza Pepperoni,Credit Card,16.390265386289194,South,False,Online Order
+35,Chocolate Cake,Online,6.483104264609532,South,False,Online Order
+36,Vanilla Cake,Credit Card,18.344780495263496,West,True,In Store
+37,Fruit Cake,Credit Card,5.184645545241134,East,False,Phone Order
+38,Pizza Pepperoni,Cash,10.550785020113828,North,True,Online Order
+39,Chocolate Cake,Cash,5.411304649589865,West,True,Phone Order
+40,Pizza Pepperoni,Cash,10.894613380179369,South,True,Phone Order
+41,Red Velvet Cake,Credit Card,12.887188983099858,South,True,Online Order
+42,Pizza Margherita,Online,12.675220798722677,South,True,Phone Order
+43,Vanilla Cake,Credit Card,7.48442520542398,East,True,Online Order
+44,Cheesecake,Cash,14.686107651434185,South,False,Online Order
+45,Pizza Margherita,Cash,5.671676757570023,West,True,In Store
+46,Cheesecake,Online,16.42860230198623,West,False,In Store
+47,Chocolate Cake,Cash,19.1996665099032,South,True,In Store
+48,Carrot Cake,Cash,10.096532407266768,West,False,In Store
+49,Fruit Cake,Cash,12.758590725714978,South,False,Phone Order
+50,Pizza Beef Double decker,Online,10.683654170882216,South,False,Phone Order
+51,Pizza Margherita,Credit Card,5.100655854560899,North,False,In Store
+52,Vanilla Cake,Cash,10.78811754342674,East,True,Online Order
+53,Pizza Pepperoni,Online,16.875803888920196,East,True,Online Order
+54,Vanilla Cake,Cash,13.939832632752228,North,True,Online Order
+55,Chocolate Cake,Online,6.518898719227384,North,True,Online Order
+56,Cheesecake,Cash,17.707092345406778,East,False,Phone Order
+57,Pizza Pepperoni,Online,12.966280173278642,South,False,Online Order
+58,Pizza Beef Double decker,Cash,17.62585042617014,South,False,Online Order
+59,Pizza Beef Double decker,Credit Card,13.70332278177544,East,True,In Store
+60,Pizza Margherita,Cash,13.395326672569098,South,False,Online Order
+61,Chocolate Cake,Online,6.5788877779551855,North,True,Phone Order
+62,Carrot Cake,Cash,7.510395997079419,South,False,Online Order
+63,Chocolate Cake,Credit Card,19.580378847448863,South,False,Online Order
+64,Cheesecake,Cash,8.427301201321562,West,False,Phone Order
+65,Vanilla Cake,Online,19.66178176985552,West,False,In Store
+66,Pizza Beef Double decker,Online,12.97869059786395,West,False,Phone Order
+67,Vanilla Cake,Credit Card,7.0368357059590565,South,True,In Store
+68,Vanilla Cake,Online,6.489533041305394,East,False,Online Order
+69,Vanilla Cake,Cash,8.1329610605861,North,True,In Store
+70,Pizza Beef Double decker,Cash,18.88455995038004,South,True,In Store
+71,Red Velvet Cake,Cash,11.212253364923402,East,True,In Store
+72,Cheesecake,Online,10.931514019893717,South,True,Online Order
+73,Cheesecake,Cash,9.69809391605261,North,True,In Store
+74,Pizza Pepperoni,Cash,7.2059277584988255,South,True,In Store
+75,Chocolate Cake,Cash,12.317767957886096,North,True,Online Order
+76,Chocolate Cake,Credit Card,6.95071673766708,South,True,Phone Order
+77,Fruit Cake,Online,17.532203545734916,North,False,Phone Order
+78,Chocolate Cake,Online,10.555954794129596,South,False,Phone Order
+79,Pizza Beef Double decker,Online,10.622053516726943,North,True,Online Order
+80,Carrot Cake,Credit Card,12.110096427247338,West,True,Online Order
+81,Pizza Margherita,Online,11.661915697486275,South,True,Phone Order
+82,Fruit Cake,Credit Card,19.92286959588982,South,False,In Store
+83,Pizza Margherita,Credit Card,13.180716818274538,East,False,Phone Order
+84,Cheesecake,Online,6.3230255568480604,East,True,Online Order
+85,Pizza Margherita,Cash,14.10316012365395,North,True,In Store
+86,Pizza Margherita,Cash,7.273764393048199,South,False,In Store
+87,Fruit Cake,Online,5.46406467097013,North,False,Online Order
+88,Pizza Pepperoni,Online,19.56113230515872,West,True,In Store
+89,Vanilla Cake,Credit Card,16.603083373018457,East,True,Phone Order
+90,Chocolate Cake,Online,19.701634886206502,North,True,Online Order
+91,Chocolate Cake,Credit Card,12.168176720333635,North,True,Online Order
+92,Pizza Beef Double decker,Online,12.983862967234645,East,False,Online Order
+93,Fruit Cake,Cash,7.525054338786953,South,False,Online Order
+94,Pizza Beef Double decker,Cash,8.703611400013784,North,True,In Store
+95,Carrot Cake,Online,17.57823822354242,East,True,Online Order
+96,Carrot Cake,Credit Card,10.342784706763911,South,True,Online Order
+97,Pizza Beef Double decker,Cash,17.402224606946284,West,False,In Store
+98,Fruit Cake,Credit Card,15.635205864305476,East,True,Online Order
+99,Pizza Beef Double decker,Online,7.6575638790779825,North,True,In Store
+100,Chocolate Cake,Online,12.611695491796132,West,True,In Store
+101,Red Velvet Cake,Cash,15.160809822780752,South,False,Online Order
+102,Pizza Margherita,Online,8.525558222057377,South,True,Phone Order
+103,Red Velvet Cake,Cash,17.46032765780115,East,False,Online Order
+104,Fruit Cake,Credit Card,13.172414863177805,East,True,Phone Order
+105,Red Velvet Cake,Cash,7.478630756639048,East,True,In Store
+106,Carrot Cake,Cash,13.744766392469035,South,True,Phone Order
+107,Cheesecake,Credit Card,19.99570706233871,West,False,Online Order
+108,Pizza Margherita,Cash,7.257822374951203,South,True,Online Order
+109,Vanilla Cake,Cash,17.25135395179292,North,True,Phone Order
+110,Fruit Cake,Online,8.10963504781337,South,False,Online Order
+111,Pizza Margherita,Credit Card,16.73582494190131,North,False,Phone Order
+112,Red Velvet Cake,Cash,16.0186688468212,West,False,In Store
+113,Carrot Cake,Credit Card,9.507340784006486,East,True,Phone Order
+114,Pizza Pepperoni,Credit Card,9.887346763466748,East,False,Phone Order
+115,Vanilla Cake,Cash,16.887820879443787,South,True,Phone Order
+116,Pizza Margherita,Online,11.92168267830969,East,False,Phone Order
+117,Carrot Cake,Credit Card,15.962270430677131,West,False,In Store
+118,Carrot Cake,Cash,7.219762210487522,East,False,In Store
+119,Red Velvet Cake,Credit Card,17.7883667285233,South,True,In Store
+120,Chocolate Cake,Online,15.663270750234789,West,True,Phone Order
+121,Red Velvet Cake,Online,18.604142132522508,North,True,In Store
+122,Chocolate Cake,Online,6.985585685524587,South,True,Online Order
+123,Chocolate Cake,Cash,13.895217505408963,North,True,In Store
+124,Vanilla Cake,Cash,13.986808775604878,West,True,Phone Order
+125,Red Velvet Cake,Online,10.301911108201736,South,True,Online Order
+126,Pizza Pepperoni,Cash,11.876996368538869,South,True,Phone Order
+127,Pizza Beef Double decker,Online,5.569723449347802,West,True,Online Order
+128,Pizza Beef Double decker,Cash,16.18790057940518,East,False,Phone Order
+129,Red Velvet Cake,Online,13.239837191047611,South,False,Phone Order
+130,Red Velvet Cake,Credit Card,5.866115778037607,South,True,Online Order
+131,Vanilla Cake,Online,15.211338394407283,North,True,In Store
+132,Red Velvet Cake,Online,12.00173115846782,East,True,Online Order
+133,Chocolate Cake,Cash,5.516918891375,North,True,Online Order
+134,Carrot Cake,Cash,19.54411590272143,North,False,Online Order
+135,Carrot Cake,Cash,19.236682146341607,East,False,Online Order
+136,Chocolate Cake,Cash,12.693536242207964,East,True,Online Order
+137,Fruit Cake,Cash,6.405086310588652,West,False,Phone Order
+138,Chocolate Cake,Cash,16.319318323978877,East,False,Phone Order
+139,Pizza Pepperoni,Credit Card,12.378966501585936,South,True,In Store
+140,Cheesecake,Online,9.5367121743407,East,True,In Store
+141,Pizza Margherita,Online,12.371272662928352,West,True,Online Order
+142,Chocolate Cake,Online,12.836662181081966,West,True,In Store
+143,Red Velvet Cake,Credit Card,13.440675485335088,West,False,In Store
+144,Red Velvet Cake,Online,11.6183557048299,East,True,Online Order
+145,Vanilla Cake,Credit Card,14.08632954708585,East,False,Phone Order
+146,Chocolate Cake,Credit Card,18.78102065909566,North,True,Phone Order
+147,Vanilla Cake,Credit Card,10.434021306478868,North,False,In Store
+148,Chocolate Cake,Online,15.885746948299236,South,True,Phone Order
+149,Pizza Margherita,Credit Card,18.416788352363483,North,True,Phone Order
+150,Cheesecake,Online,11.839689136399054,South,False,In Store
+151,Carrot Cake,Online,11.65183754572856,West,False,Online Order
+152,Pizza Beef Double decker,Cash,14.031754780321693,North,False,In Store
+153,Chocolate Cake,Cash,13.87110139133732,East,True,In Store
+154,Cheesecake,Credit Card,17.098840134894154,North,False,In Store
+155,Carrot Cake,Credit Card,12.14725075667439,South,False,Online Order
+156,Fruit Cake,Online,19.941844244591618,North,False,Online Order
+157,Pizza Margherita,Credit Card,5.892073533009212,West,False,Online Order
+158,Vanilla Cake,Credit Card,5.047517728710526,East,False,Online Order
+159,Vanilla Cake,Online,14.602974673394357,South,False,In Store
+160,Red Velvet Cake,Credit Card,9.47652368542815,East,False,Phone Order
+161,Carrot Cake,Credit Card,8.605735830492257,East,False,In Store
+162,Fruit Cake,Online,9.678486200064206,South,False,Online Order
+163,Cheesecake,Online,8.840713476574315,East,True,Phone Order
+164,Pizza Margherita,Cash,5.461850744906718,East,True,In Store
+165,Carrot Cake,Online,19.57299563585883,North,False,Phone Order
+166,Fruit Cake,Cash,8.311182326791727,East,True,Online Order
+167,Pizza Beef Double decker,Credit Card,16.010446438839594,East,True,Phone Order
+168,Chocolate Cake,Online,16.43894592041263,East,False,Phone Order
+169,Vanilla Cake,Online,18.93886097010844,East,False,Online Order
+170,Cheesecake,Online,5.4582418564007,South,False,Phone Order
+171,Vanilla Cake,Credit Card,18.080725076705114,West,False,In Store
+172,Cheesecake,Cash,12.908392712597005,North,False,Phone Order
+173,Red Velvet Cake,Credit Card,14.488161649487418,East,False,In Store
+174,Cheesecake,Credit Card,14.667054156815505,East,True,Phone Order
+175,Vanilla Cake,Online,17.29696707477091,South,False,Phone Order
+176,Cheesecake,Cash,10.001109832386655,West,True,Online Order
+177,Pizza Beef Double decker,Credit Card,15.9957678478999,East,False,Online Order
+178,Red Velvet Cake,Online,12.928671645832956,South,False,In Store
+179,Cheesecake,Credit Card,16.900910214580215,North,True,Online Order
+180,Carrot Cake,Credit Card,19.858190491552,North,False,Online Order
+181,Pizza Pepperoni,Online,8.009765261056419,East,False,Online Order
+182,Fruit Cake,Online,19.919729623399967,East,True,Online Order
+183,Pizza Pepperoni,Cash,6.347182314241611,West,False,Online Order
+184,Pizza Pepperoni,Credit Card,5.034763218572208,West,True,In Store
+185,Pizza Margherita,Online,5.662429042667469,East,False,In Store
+186,Pizza Beef Double decker,Online,10.126736071051424,South,False,Online Order
+187,Carrot Cake,Cash,14.493594960176512,West,True,Online Order
+188,Chocolate Cake,Cash,6.035443113317744,East,False,In Store
+189,Cheesecake,Online,5.084987217943509,West,True,Phone Order
+190,Fruit Cake,Cash,19.05636542688192,East,True,In Store
+191,Red Velvet Cake,Online,17.328899539098945,North,True,Phone Order
+192,Carrot Cake,Credit Card,17.137747567085466,East,False,Online Order
+193,Vanilla Cake,Cash,18.266364132529656,North,False,Online Order
+194,Chocolate Cake,Credit Card,15.500514091581566,West,True,In Store
+195,Pizza Margherita,Credit Card,6.566061946221222,East,False,Online Order
+196,Pizza Margherita,Credit Card,10.986502821105846,West,False,Phone Order
+197,Carrot Cake,Online,15.847242296969442,North,False,Phone Order
+198,Pizza Pepperoni,Credit Card,9.205016911872814,East,True,In Store
+199,Vanilla Cake,Credit Card,15.311095462043564,West,False,Phone Order
+200,Pizza Margherita,Credit Card,5.367476724014785,North,True,In Store
+201,Fruit Cake,Online,9.5920601131939,West,False,In Store
+202,Pizza Margherita,Credit Card,13.23695504415759,South,False,Phone Order
+203,Red Velvet Cake,Credit Card,14.481347442593634,North,True,Phone Order
+204,Cheesecake,Cash,13.655609966928662,North,False,Phone Order
+205,Pizza Margherita,Online,15.466344141101445,North,True,Phone Order
+206,Red Velvet Cake,Credit Card,5.091331223597586,East,False,Phone Order
+207,Carrot Cake,Cash,6.514117999662823,East,True,Phone Order
+208,Carrot Cake,Online,18.03416378418717,East,False,Phone Order
+209,Chocolate Cake,Online,15.226229661352418,South,False,Online Order
+210,Pizza Margherita,Online,6.69397464029017,South,False,In Store
+211,Fruit Cake,Online,17.63111656097869,North,True,In Store
+212,Pizza Margherita,Online,8.633468267368503,South,True,Phone Order
+213,Fruit Cake,Online,12.173898262928352,West,True,In Store
+214,Pizza Beef Double decker,Credit Card,7.177947693269904,North,False,Phone Order
+215,Chocolate Cake,Credit Card,15.6516508463256,North,True,Online Order
+216,Pizza Beef Double decker,Credit Card,15.002816315214018,West,True,In Store
+217,Pizza Margherita,Credit Card,8.166687067492042,North,True,In Store
+218,Chocolate Cake,Cash,17.951011502855028,South,True,Online Order
+219,Pizza Beef Double decker,Credit Card,11.019590363295682,East,True,Online Order
+220,Pizza Pepperoni,Online,9.387726366061129,West,True,Online Order
+221,Pizza Margherita,Credit Card,7.284943841968031,South,True,In Store
+222,Pizza Beef Double decker,Credit Card,8.992520187733062,West,True,In Store
+223,Pizza Pepperoni,Online,5.330403818357255,West,True,Online Order
+224,Pizza Pepperoni,Credit Card,13.748862386841733,North,True,Online Order
+225,Carrot Cake,Credit Card,17.63346119515922,North,False,Online Order
+226,Pizza Margherita,Credit Card,13.234706741624628,South,False,Online Order
+227,Pizza Pepperoni,Cash,8.289109428858136,West,True,Online Order
+228,Carrot Cake,Credit Card,5.505037673208091,North,False,Phone Order
+229,Pizza Beef Double decker,Online,8.219421098882043,North,False,Online Order
+230,Red Velvet Cake,Online,11.241821421066383,West,True,Phone Order
+231,Pizza Margherita,Credit Card,16.394171430496947,South,True,In Store
+232,Chocolate Cake,Credit Card,7.817642788066612,South,True,In Store
+233,Fruit Cake,Credit Card,15.796871800320291,West,False,Phone Order
+234,Fruit Cake,Online,18.004002025278254,South,True,Online Order
+235,Pizza Beef Double decker,Online,11.809202721625356,North,False,In Store
+236,Pizza Beef Double decker,Cash,17.3214798746389,West,True,Online Order
+237,Pizza Pepperoni,Cash,13.319860220526431,North,False,Online Order
+238,Pizza Margherita,Cash,14.556362556213577,East,False,Phone Order
+239,Fruit Cake,Online,12.89417690507304,East,True,In Store
+240,Fruit Cake,Cash,11.947590751270129,South,True,In Store
+241,Pizza Pepperoni,Credit Card,8.51980162663774,East,False,Phone Order
+242,Fruit Cake,Credit Card,9.547910891915691,North,False,Online Order
+243,Chocolate Cake,Online,9.349551784154135,East,True,Online Order
+244,Pizza Margherita,Cash,13.44933396430722,North,True,In Store
+245,Cheesecake,Credit Card,6.799305395358349,South,False,Phone Order
+246,Fruit Cake,Online,18.751875360535028,South,True,Phone Order
+247,Pizza Beef Double decker,Cash,15.8098271792467,North,False,Online Order
+248,Chocolate Cake,Credit Card,11.021684463697904,East,True,Online Order
+249,Fruit Cake,Cash,7.379362167895669,South,True,Phone Order
+250,Chocolate Cake,Online,18.229882545824537,West,True,In Store
+251,Carrot Cake,Cash,17.356671351517477,South,False,Online Order
+252,Cheesecake,Online,15.82582329075769,East,True,Phone Order
+253,Vanilla Cake,Cash,9.073205711168637,West,False,Phone Order
+254,Pizza Beef Double decker,Credit Card,11.036699561505037,East,True,Phone Order
+255,Pizza Beef Double decker,Online,6.54122378678635,North,False,In Store
+256,Pizza Margherita,Online,7.835592870912976,West,False,Online Order
+257,Chocolate Cake,Online,16.745249559750995,East,True,Online Order
+258,Pizza Pepperoni,Cash,15.725580782760256,West,False,Online Order
+259,Pizza Beef Double decker,Cash,13.90228644463902,East,False,In Store
+260,Chocolate Cake,Credit Card,18.4359008888926,West,False,Online Order
+261,Chocolate Cake,Online,13.74899776719568,East,False,Online Order
+262,Red Velvet Cake,Online,12.00451999945416,North,True,Online Order
+263,Red Velvet Cake,Cash,10.10556119458644,West,True,Online Order
+264,Vanilla Cake,Cash,19.106727586042588,West,True,In Store
+265,Carrot Cake,Credit Card,6.240731922865303,West,False,Phone Order
+266,Vanilla Cake,Credit Card,18.963310580912125,West,False,Phone Order
+267,Fruit Cake,Cash,17.400719898965274,North,True,Online Order
+268,Pizza Pepperoni,Online,6.94894886803552,West,True,Online Order
+269,Fruit Cake,Credit Card,13.474765365128803,South,False,Online Order
+270,Fruit Cake,Cash,17.998219726236304,North,True,In Store
+271,Pizza Margherita,Cash,13.577137454107303,South,True,Online Order
+272,Fruit Cake,Online,18.607997323409336,West,False,In Store
+273,Vanilla Cake,Cash,19.14475725224064,East,True,Online Order
+274,Pizza Beef Double decker,Cash,11.335767832764589,South,False,Online Order
+275,Pizza Beef Double decker,Credit Card,10.659704921094852,West,True,Phone Order
+276,Red Velvet Cake,Cash,19.04481730953735,South,False,Online Order
+277,Pizza Pepperoni,Cash,15.127100917245022,West,False,In Store
+278,Pizza Pepperoni,Credit Card,6.74034022022254,West,False,Phone Order
+279,Pizza Margherita,Online,5.634376238340218,West,False,In Store
+280,Vanilla Cake,Online,13.469435764958948,East,False,Phone Order
+281,Red Velvet Cake,Credit Card,18.952564481576367,South,True,In Store
+282,Pizza Pepperoni,Credit Card,17.663730536087275,North,True,Phone Order
+283,Pizza Beef Double decker,Online,15.137716196965046,North,True,In Store
+284,Fruit Cake,Online,7.086737733366313,North,False,In Store
+285,Fruit Cake,Online,8.813470756230434,North,True,Online Order
+286,Red Velvet Cake,Online,18.13266839828924,West,False,Phone Order
+287,Vanilla Cake,Online,7.742108549853507,South,False,Phone Order
+288,Vanilla Cake,Credit Card,9.176591123756518,South,True,Online Order
+289,Carrot Cake,Cash,6.944009767931629,East,False,In Store
+290,Cheesecake,Online,15.141623471216167,South,True,In Store
+291,Pizza Pepperoni,Online,19.159734580448145,South,False,Phone Order
+292,Vanilla Cake,Cash,9.03452047393079,South,False,In Store
+293,Pizza Beef Double decker,Cash,12.131099117751106,East,True,Phone Order
+294,Red Velvet Cake,Cash,14.515096095668063,North,False,Phone Order
+295,Carrot Cake,Cash,19.99199372323445,South,True,In Store
+296,Chocolate Cake,Cash,6.572120974963582,East,False,In Store
+297,Pizza Margherita,Cash,12.478561992585638,East,True,In Store
+298,Chocolate Cake,Credit Card,10.776801798537502,West,False,Online Order
+299,Fruit Cake,Cash,17.987302478335327,East,True,Phone Order
+300,Pizza Margherita,Cash,12.13951596517484,North,True,In Store
+301,Pizza Pepperoni,Credit Card,6.664662868777222,South,False,Online Order
+302,Pizza Beef Double decker,Cash,14.516362179298754,East,True,In Store
+303,Pizza Margherita,Online,16.561709273958197,North,False,Phone Order
+304,Cheesecake,Online,5.0432187749842186,East,False,Online Order
+305,Chocolate Cake,Cash,17.884350281309445,East,True,Phone Order
+306,Pizza Pepperoni,Credit Card,7.790345000084985,East,True,In Store
+307,Cheesecake,Online,13.281040469800669,East,True,In Store
+308,Fruit Cake,Credit Card,11.236962510311752,East,True,In Store
+309,Cheesecake,Online,15.794807249157955,North,True,Online Order
+310,Carrot Cake,Cash,10.567424221786126,South,False,Online Order
+311,Carrot Cake,Credit Card,18.046447650225662,South,True,Online Order
+312,Red Velvet Cake,Credit Card,15.957445414381851,South,False,Online Order
+313,Pizza Pepperoni,Credit Card,14.715697565943822,South,True,In Store
+314,Fruit Cake,Online,16.943608933442814,North,True,In Store
+315,Vanilla Cake,Online,16.310345523925733,West,True,In Store
+316,Carrot Cake,Online,5.5390801238233,West,False,Online Order
+317,Pizza Pepperoni,Cash,10.921015307672423,North,True,Online Order
+318,Vanilla Cake,Online,18.962109459747342,North,False,In Store
+319,Red Velvet Cake,Cash,6.885864034883394,East,False,In Store
+320,Cheesecake,Credit Card,16.05644825648077,East,False,Online Order
+321,Carrot Cake,Credit Card,19.618877170029947,East,True,Phone Order
+322,Pizza Pepperoni,Cash,5.782979435674575,South,False,In Store
+323,Pizza Margherita,Online,15.232908209399158,East,True,In Store
+324,Vanilla Cake,Cash,12.022312119515457,West,False,In Store
+325,Cheesecake,Credit Card,13.687628830620833,South,True,Online Order
+326,Carrot Cake,Credit Card,6.280120047264873,East,False,In Store
+327,Fruit Cake,Cash,5.6451042780040925,South,True,In Store
+328,Vanilla Cake,Online,15.002999908263826,West,True,In Store
+329,Carrot Cake,Online,17.349641447310766,East,True,In Store
+330,Vanilla Cake,Cash,16.73023002399451,West,False,In Store
+331,Cheesecake,Cash,13.15708591799356,West,False,Phone Order
+332,Carrot Cake,Online,6.498002317042673,West,True,Phone Order
+333,Chocolate Cake,Credit Card,15.320666657540208,East,False,In Store
+334,Pizza Pepperoni,Cash,8.628333253312189,North,False,In Store
+335,Cheesecake,Online,18.66603054151076,East,False,In Store
+336,Vanilla Cake,Online,17.573980393185572,West,False,In Store
+337,Fruit Cake,Credit Card,15.640744506310863,East,False,Online Order
+338,Pizza Margherita,Credit Card,19.23268933746696,West,False,Online Order
+339,Vanilla Cake,Credit Card,5.471327322669094,North,False,Online Order
+340,Pizza Pepperoni,Credit Card,16.043006375911432,South,True,Phone Order
+341,Carrot Cake,Credit Card,9.95364169004608,North,True,In Store
+342,Pizza Margherita,Cash,18.59098828529548,North,False,Online Order
+343,Pizza Beef Double decker,Online,9.000127949929663,South,True,In Store
+344,Vanilla Cake,Cash,15.872847489725256,East,True,In Store
+345,Red Velvet Cake,Cash,18.16470529476172,South,True,Phone Order
+346,Pizza Beef Double decker,Cash,5.624852275740237,East,False,Phone Order
+347,Vanilla Cake,Cash,10.964713693880542,East,False,Online Order
+348,Chocolate Cake,Cash,16.434635480329078,West,False,Online Order
+349,Red Velvet Cake,Credit Card,11.823783342613806,West,False,Phone Order
+350,Pizza Margherita,Credit Card,9.00878944690393,South,False,Phone Order
+351,Fruit Cake,Online,8.29708023234785,North,True,In Store
+352,Chocolate Cake,Cash,6.972774003745669,South,False,In Store
+353,Pizza Beef Double decker,Online,17.856943397844233,East,True,Online Order
+354,Carrot Cake,Credit Card,13.63033104877334,West,False,Online Order
+355,Pizza Pepperoni,Credit Card,6.14577417487184,South,True,Phone Order
+356,Fruit Cake,Credit Card,10.738704853559533,South,False,Online Order
+357,Chocolate Cake,Cash,10.516004762076648,West,False,In Store
+358,Carrot Cake,Cash,7.726087860641945,West,False,Phone Order
+359,Carrot Cake,Credit Card,11.53261438208286,West,False,In Store
+360,Vanilla Cake,Online,9.981490480897047,East,False,Phone Order
+361,Chocolate Cake,Online,10.127055582382738,West,False,Phone Order
+362,Pizza Margherita,Credit Card,16.08539836681938,North,True,In Store
+363,Red Velvet Cake,Online,8.348950782577944,South,False,Online Order
+364,Red Velvet Cake,Credit Card,14.62789938283033,West,True,Online Order
+365,Pizza Beef Double decker,Online,13.559744358214022,West,False,Online Order
+366,Pizza Beef Double decker,Credit Card,13.52138768506801,East,True,Online Order
+367,Red Velvet Cake,Online,14.94511019212664,East,True,In Store
+368,Pizza Margherita,Cash,13.225730542934809,South,True,Phone Order
+369,Pizza Pepperoni,Credit Card,18.18882672269577,North,True,In Store
+370,Cheesecake,Credit Card,15.133701379253898,South,True,Online Order
+371,Pizza Pepperoni,Online,13.204448770570822,West,True,Online Order
+372,Vanilla Cake,Credit Card,17.446446804314675,North,False,In Store
+373,Cheesecake,Credit Card,14.092198474002195,North,True,Phone Order
+374,Cheesecake,Credit Card,9.367163716777686,North,False,In Store
+375,Chocolate Cake,Cash,8.106423772648569,North,False,In Store
+376,Pizza Margherita,Cash,7.284916784940182,South,True,In Store
+377,Pizza Margherita,Online,18.491828188191526,East,True,Phone Order
+378,Cheesecake,Cash,15.652031476970988,East,False,In Store
+379,Chocolate Cake,Online,19.06067657246481,West,True,In Store
+380,Cheesecake,Cash,14.049377085724146,East,True,Online Order
+381,Fruit Cake,Online,12.101013222423688,East,True,In Store
+382,Pizza Beef Double decker,Cash,5.89574733456334,East,True,Online Order
+383,Pizza Beef Double decker,Cash,15.074634223190449,East,True,Online Order
+384,Pizza Pepperoni,Online,13.733131396523468,West,True,Online Order
+385,Vanilla Cake,Credit Card,19.85313340381432,South,True,Phone Order
+386,Pizza Beef Double decker,Credit Card,8.587381666733645,North,False,Online Order
+387,Carrot Cake,Cash,12.961060329302535,East,True,In Store
+388,Pizza Pepperoni,Online,14.76436002677109,South,False,In Store
+389,Pizza Beef Double decker,Credit Card,14.668867621135156,East,False,Online Order
+390,Vanilla Cake,Online,13.419403144226042,East,False,Online Order
+391,Pizza Margherita,Credit Card,16.653920154908384,North,False,In Store
+392,Pizza Margherita,Online,8.074718142902245,North,True,Online Order
+393,Cheesecake,Cash,15.88440800411624,North,False,Phone Order
+394,Fruit Cake,Online,14.296018571496338,East,False,Online Order
+395,Pizza Margherita,Credit Card,18.4411266769186,East,False,Phone Order
+396,Chocolate Cake,Cash,17.707916585503725,East,False,Phone Order
+397,Pizza Beef Double decker,Online,9.7272055869883,North,False,Phone Order
+398,Chocolate Cake,Credit Card,9.143559874627297,West,True,Online Order
+399,Vanilla Cake,Cash,19.72479985778672,South,True,Phone Order
+400,Pizza Margherita,Online,12.908977713728849,West,False,Phone Order
+401,Fruit Cake,Credit Card,18.596314458716552,East,True,Online Order
+402,Vanilla Cake,Online,7.458215356707233,East,True,Phone Order
+403,Carrot Cake,Online,14.642283722002617,West,False,Online Order
+404,Carrot Cake,Cash,17.147902810408794,East,False,In Store
+405,Chocolate Cake,Cash,19.210928743796703,South,False,Phone Order
+406,Cheesecake,Credit Card,10.060102115255352,East,True,Online Order
+407,Pizza Pepperoni,Cash,15.874717548860788,South,False,In Store
+408,Cheesecake,Credit Card,13.082195135594286,West,True,Phone Order
+409,Cheesecake,Online,5.909433890997023,West,True,Phone Order
+410,Fruit Cake,Online,15.349996059634153,East,True,Online Order
+411,Pizza Margherita,Credit Card,15.351448373567653,South,False,In Store
+412,Fruit Cake,Online,18.95910207269805,East,True,Online Order
+413,Vanilla Cake,Cash,12.459686692534586,North,False,Phone Order
+414,Carrot Cake,Online,8.453763810657719,North,False,Phone Order
+415,Fruit Cake,Cash,5.668457351730187,North,False,Phone Order
+416,Vanilla Cake,Credit Card,11.234632800288583,North,False,Phone Order
+417,Fruit Cake,Credit Card,9.528750501162529,East,False,In Store
+418,Cheesecake,Online,16.416324590358133,North,True,In Store
+419,Pizza Beef Double decker,Online,10.314016472615698,South,True,Online Order
+420,Chocolate Cake,Cash,19.23606794472266,West,True,Online Order
+421,Pizza Pepperoni,Cash,19.434653044816763,West,True,Online Order
+422,Fruit Cake,Online,14.31362885326562,North,True,Phone Order
+423,Pizza Pepperoni,Online,18.929904305223243,North,False,Online Order
+424,Red Velvet Cake,Credit Card,16.412815167717433,North,False,In Store
+425,Fruit Cake,Credit Card,13.202894614626892,East,True,Online Order
+426,Pizza Beef Double decker,Credit Card,7.704619031341672,West,True,Online Order
+427,Pizza Pepperoni,Online,11.8789691527076,North,True,In Store
+428,Fruit Cake,Online,13.413116950439264,South,False,In Store
+429,Pizza Margherita,Online,17.959423711025153,North,False,Phone Order
+430,Chocolate Cake,Credit Card,12.220000648034972,West,False,In Store
+431,Pizza Beef Double decker,Online,18.46512009016935,North,True,In Store
+432,Pizza Pepperoni,Cash,15.115234685352034,West,True,Online Order
+433,Pizza Beef Double decker,Online,7.05498594580507,North,True,In Store
+434,Vanilla Cake,Online,19.9247205398764,South,True,Phone Order
+435,Chocolate Cake,Online,12.908489911308688,North,False,Online Order
+436,Fruit Cake,Online,10.877874446136182,South,True,Phone Order
+437,Fruit Cake,Online,14.886706467042895,South,True,In Store
+438,Fruit Cake,Cash,6.633399709715587,North,True,Phone Order
+439,Chocolate Cake,Cash,14.548079701300315,South,False,Phone Order
+440,Pizza Margherita,Online,12.473540007489095,East,False,In Store
+441,Red Velvet Cake,Credit Card,11.100111049978748,North,True,In Store
+442,Carrot Cake,Online,19.295300317683488,North,False,Online Order
+443,Cheesecake,Online,12.838095750980798,South,False,Online Order
+444,Pizza Pepperoni,Online,8.286762192049077,South,False,Online Order
+445,Pizza Margherita,Credit Card,11.88445219065948,North,False,In Store
+446,Pizza Pepperoni,Credit Card,18.790811068590088,East,False,Phone Order
+447,Fruit Cake,Credit Card,7.64143206995892,South,True,Phone Order
+448,Pizza Beef Double decker,Cash,8.209355580323553,South,True,Online Order
+449,Pizza Pepperoni,Credit Card,5.1954435163562565,West,True,Online Order
+450,Fruit Cake,Cash,5.212850740936508,East,False,In Store
+451,Pizza Pepperoni,Cash,17.440874404377688,East,False,Phone Order
+452,Pizza Beef Double decker,Credit Card,15.981839102644336,North,False,Online Order
+453,Fruit Cake,Credit Card,10.325615846779376,East,False,In Store
+454,Red Velvet Cake,Credit Card,15.47466735841359,North,True,Online Order
+455,Pizza Margherita,Cash,10.928088894649552,West,True,In Store
+456,Vanilla Cake,Online,19.29345193996741,East,True,Phone Order
+457,Cheesecake,Credit Card,19.505790221390523,South,True,In Store
+458,Chocolate Cake,Credit Card,10.891906637140153,West,True,Online Order
+459,Cheesecake,Credit Card,17.81332859511302,North,True,Online Order
+460,Cheesecake,Cash,16.596335625461993,West,False,Phone Order
+461,Fruit Cake,Cash,9.64999905757684,North,False,Phone Order
+462,Red Velvet Cake,Online,8.48059743351659,West,True,Online Order
+463,Vanilla Cake,Credit Card,11.873519755892508,North,False,Online Order
+464,Pizza Margherita,Cash,16.720232609216094,East,True,Online Order
+465,Pizza Margherita,Online,19.40251677093118,South,True,Phone Order
+466,Pizza Beef Double decker,Credit Card,16.45368603299859,North,False,Online Order
+467,Chocolate Cake,Cash,17.82810477527555,West,True,Phone Order
+468,Pizza Pepperoni,Credit Card,14.045964592557748,North,True,Online Order
+469,Red Velvet Cake,Credit Card,17.53111746263189,North,True,In Store
+470,Pizza Pepperoni,Cash,16.766312870051266,North,False,In Store
+471,Vanilla Cake,Cash,10.654783128894202,West,False,Online Order
+472,Cheesecake,Cash,13.279854531810816,South,False,In Store
+473,Pizza Margherita,Credit Card,17.071296829845423,East,False,Phone Order
+474,Vanilla Cake,Credit Card,5.690851012849346,South,True,In Store
+475,Cheesecake,Online,17.121189235337447,North,False,In Store
+476,Pizza Margherita,Credit Card,7.668321860735352,West,False,Phone Order
+477,Cheesecake,Cash,12.720254256821583,South,False,In Store
+478,Chocolate Cake,Credit Card,17.124131593339065,North,True,In Store
+479,Red Velvet Cake,Online,8.807316172350422,East,False,Online Order
+480,Vanilla Cake,Online,8.687111589592295,East,False,Phone Order
+481,Vanilla Cake,Cash,11.04146597693378,East,True,Phone Order
+482,Carrot Cake,Cash,18.41964196366452,North,True,Online Order
+483,Fruit Cake,Online,5.006641721558118,West,True,Online Order
+484,Chocolate Cake,Online,18.520746449629023,South,True,In Store
+485,Chocolate Cake,Online,7.307105369624116,East,False,In Store
+486,Pizza Pepperoni,Cash,19.85129564101223,North,True,In Store
+487,Cheesecake,Online,19.322704895577026,North,False,Online Order
+488,Fruit Cake,Online,12.420127843869247,South,False,Phone Order
+489,Red Velvet Cake,Cash,12.69080371718942,East,False,In Store
+490,Red Velvet Cake,Credit Card,12.223240104137815,North,False,Online Order
+491,Chocolate Cake,Credit Card,14.53165468489284,South,False,Phone Order
+492,Red Velvet Cake,Online,6.360825533523966,West,True,Online Order
+493,Carrot Cake,Credit Card,5.489269225123498,West,False,In Store
+494,Vanilla Cake,Credit Card,5.865543926238483,West,False,Online Order
+495,Pizza Beef Double decker,Credit Card,11.665480238622717,East,False,Online Order
+496,Pizza Pepperoni,Credit Card,9.13321908829225,South,True,Online Order
+497,Cheesecake,Online,14.330593435564907,South,False,Online Order
+498,Cheesecake,Credit Card,19.886634340621683,North,False,Phone Order
+499,Pizza Margherita,Credit Card,10.794847596146989,North,True,In Store
+500,Pizza Beef Double decker,Cash,13.6076188115677,North,False,Phone Order
+501,Chocolate Cake,Online,11.234058438610033,South,False,Online Order
+502,Carrot Cake,Cash,17.709075015827892,North,True,Online Order
+503,Vanilla Cake,Cash,18.53354605193357,South,False,In Store
+504,Vanilla Cake,Online,18.160334183078906,South,False,In Store
+505,Carrot Cake,Credit Card,19.61558358018886,West,False,Phone Order
+506,Fruit Cake,Cash,5.41278777710623,North,False,Phone Order
+507,Pizza Margherita,Online,17.597242432182966,West,False,In Store
+508,Cheesecake,Credit Card,16.276582595586397,East,True,Phone Order
+509,Pizza Beef Double decker,Online,8.430416141005471,East,True,Online Order
+510,Red Velvet Cake,Cash,19.344801400812912,East,True,Online Order
+511,Pizza Margherita,Credit Card,7.2226689234491825,South,False,In Store
+512,Pizza Beef Double decker,Credit Card,15.193248907008623,South,False,Phone Order
+513,Pizza Pepperoni,Online,8.373353252238687,South,False,Online Order
+514,Pizza Pepperoni,Credit Card,11.47070973161112,North,True,In Store
+515,Pizza Margherita,Cash,15.787398454168532,West,False,Phone Order
+516,Chocolate Cake,Cash,13.4498696304957,South,False,Online Order
+517,Pizza Beef Double decker,Cash,11.412527469921676,West,False,Phone Order
+518,Pizza Beef Double decker,Online,9.895076463979809,West,True,Phone Order
+519,Carrot Cake,Credit Card,17.594894835631855,West,True,Phone Order
+520,Chocolate Cake,Credit Card,7.157215254722206,North,False,In Store
+521,Cheesecake,Credit Card,11.451543147947,North,False,Online Order
+522,Cheesecake,Cash,18.55636357662713,East,False,In Store
+523,Red Velvet Cake,Credit Card,17.687743256899516,East,True,Online Order
+524,Vanilla Cake,Cash,11.0141264370957,West,True,Online Order
+525,Pizza Pepperoni,Credit Card,16.446625454019625,East,True,In Store
+526,Cheesecake,Cash,17.34741246063289,West,False,In Store
+527,Chocolate Cake,Credit Card,18.333311360054445,North,True,Online Order
+528,Pizza Beef Double decker,Online,13.16758653573842,North,False,Online Order
+529,Cheesecake,Online,8.066913290820677,North,False,Online Order
+530,Pizza Beef Double decker,Cash,8.829636147558976,South,True,Phone Order
+531,Cheesecake,Cash,9.435420110624063,West,False,Online Order
+532,Pizza Pepperoni,Credit Card,13.907037212144232,North,True,In Store
+533,Cheesecake,Credit Card,5.492144361929126,West,False,In Store
+534,Chocolate Cake,Online,14.540637031699523,East,False,In Store
+535,Cheesecake,Credit Card,10.46531357642348,East,True,Online Order
+536,Vanilla Cake,Cash,9.428627037344633,North,False,Online Order
+537,Pizza Pepperoni,Cash,18.192448560921896,West,False,Phone Order
+538,Chocolate Cake,Cash,11.900035933711983,North,False,Phone Order
+539,Carrot Cake,Cash,6.425795682990392,East,False,In Store
+540,Chocolate Cake,Cash,17.401201520393705,North,False,Phone Order
+541,Vanilla Cake,Online,5.714618861547599,West,False,Phone Order
+542,Pizza Pepperoni,Online,15.90123836252295,East,False,In Store
+543,Carrot Cake,Cash,16.608593326559976,South,False,Online Order
+544,Vanilla Cake,Credit Card,10.289039088932872,East,True,Phone Order
+545,Vanilla Cake,Cash,17.3718178441668,South,True,Online Order
+546,Pizza Margherita,Online,12.7348910878468,North,False,In Store
+547,Pizza Pepperoni,Cash,11.949404799091951,North,False,In Store
+548,Chocolate Cake,Online,5.6810492220303885,West,True,Phone Order
+549,Pizza Beef Double decker,Online,9.350437904733589,South,False,In Store
+550,Pizza Beef Double decker,Cash,18.965149563279496,North,True,In Store
+551,Chocolate Cake,Cash,10.8773594492525,South,True,In Store
+552,Chocolate Cake,Credit Card,13.200507808351524,North,True,Phone Order
+553,Pizza Pepperoni,Online,12.980325184763776,East,False,Phone Order
+554,Chocolate Cake,Credit Card,13.8564663473404,North,False,Phone Order
+555,Pizza Margherita,Cash,5.919964334649239,West,False,In Store
+556,Carrot Cake,Online,10.432643821980925,East,True,Online Order
+557,Chocolate Cake,Credit Card,15.846924108238312,West,True,In Store
+558,Pizza Beef Double decker,Credit Card,8.008403766094744,East,True,Phone Order
+559,Chocolate Cake,Credit Card,8.053675663195406,South,False,Online Order
+560,Pizza Margherita,Cash,5.151359100335371,West,True,Online Order
+561,Cheesecake,Cash,11.562228899123143,North,True,Phone Order
+562,Cheesecake,Cash,18.24101571010133,South,False,Online Order
+563,Vanilla Cake,Online,5.778514153809635,North,True,Online Order
+564,Red Velvet Cake,Cash,7.866780642440039,East,True,Phone Order
+565,Carrot Cake,Online,9.651268075141326,East,False,Online Order
+566,Fruit Cake,Credit Card,15.975871048463194,North,False,Online Order
+567,Vanilla Cake,Credit Card,14.609533892038796,North,True,Phone Order
+568,Cheesecake,Cash,11.239158568727824,South,False,Online Order
+569,Pizza Beef Double decker,Credit Card,16.386034088875636,North,True,Online Order
+570,Fruit Cake,Cash,14.14446517485353,West,False,Online Order
+571,Vanilla Cake,Online,18.440611994858287,West,True,Online Order
+572,Fruit Cake,Credit Card,17.270401237080396,North,False,Phone Order
+573,Pizza Pepperoni,Cash,8.792204091338007,West,True,In Store
+574,Red Velvet Cake,Credit Card,9.071578664513003,North,False,In Store
+575,Pizza Pepperoni,Credit Card,6.880347136885785,South,False,Online Order
+576,Fruit Cake,Cash,10.054470885761848,West,False,Phone Order
+577,Pizza Pepperoni,Credit Card,19.993158780786416,West,False,Phone Order
+578,Pizza Margherita,Credit Card,11.086267529225914,North,False,Online Order
+579,Cheesecake,Credit Card,8.307326520336595,West,False,In Store
+580,Pizza Margherita,Credit Card,16.437243267133297,East,False,Online Order
+581,Chocolate Cake,Online,13.13706505193984,South,True,Phone Order
+582,Pizza Pepperoni,Credit Card,7.244021742904287,South,True,Phone Order
+583,Chocolate Cake,Credit Card,10.710345217412986,West,False,In Store
+584,Pizza Beef Double decker,Cash,11.21704573309015,West,False,Phone Order
+585,Carrot Cake,Online,16.30744550853828,East,True,Phone Order
+586,Pizza Beef Double decker,Cash,5.310070533378567,East,True,Phone Order
+587,Fruit Cake,Cash,9.035294701974657,West,False,In Store
+588,Cheesecake,Cash,12.763944519732831,West,True,Phone Order
+589,Pizza Pepperoni,Online,9.03270113679265,East,True,Online Order
+590,Vanilla Cake,Cash,14.426510711284983,North,False,In Store
+591,Carrot Cake,Cash,12.228012189119248,East,False,Online Order
+592,Red Velvet Cake,Cash,10.42565382289371,North,False,Online Order
+593,Red Velvet Cake,Credit Card,19.238129403057684,South,True,In Store
+594,Red Velvet Cake,Cash,14.482392487796862,South,False,Online Order
+595,Pizza Pepperoni,Online,6.949120584019118,East,False,In Store
+596,Red Velvet Cake,Online,13.401375461650932,North,True,Online Order
+597,Pizza Margherita,Credit Card,16.710977798013516,East,False,In Store
+598,Carrot Cake,Online,15.62734546239196,East,True,Phone Order
+599,Pizza Margherita,Online,7.58133843942889,North,True,Phone Order
+600,Carrot Cake,Credit Card,19.58629998560155,East,True,Online Order
+601,Pizza Margherita,Cash,11.73220468619909,South,True,Phone Order
+602,Carrot Cake,Credit Card,7.385375056103919,West,True,In Store
+603,Chocolate Cake,Cash,7.702936311922219,West,True,Online Order
+604,Pizza Pepperoni,Cash,6.473524882836207,East,False,Phone Order
+605,Pizza Pepperoni,Online,17.052771626524013,North,False,Phone Order
+606,Red Velvet Cake,Credit Card,6.8304574148277295,North,False,Online Order
+607,Pizza Beef Double decker,Online,6.876878857126204,South,True,Phone Order
+608,Red Velvet Cake,Online,17.757074221412566,North,False,Phone Order
+609,Fruit Cake,Cash,10.169061266713395,North,True,Online Order
+610,Pizza Margherita,Online,5.462868564621087,South,False,Phone Order
+611,Carrot Cake,Credit Card,5.778429492776163,East,True,Phone Order
+612,Pizza Beef Double decker,Online,7.132556700558434,West,False,Phone Order
+613,Fruit Cake,Online,8.200900219635344,South,True,Phone Order
+614,Pizza Pepperoni,Cash,14.97719291357608,East,False,Online Order
+615,Pizza Pepperoni,Credit Card,7.359894200027424,South,True,In Store
+616,Red Velvet Cake,Online,6.78311586765608,East,False,In Store
+617,Pizza Margherita,Cash,16.470787122144188,South,True,Phone Order
+618,Pizza Beef Double decker,Online,15.065829257898717,East,False,Phone Order
+619,Cheesecake,Credit Card,11.529863321828543,South,False,In Store
+620,Fruit Cake,Online,13.23964657220156,East,False,Phone Order
+621,Fruit Cake,Online,9.679760304896275,South,True,In Store
+622,Red Velvet Cake,Cash,12.23750630353041,West,True,Online Order
+623,Pizza Pepperoni,Online,12.600089734741186,West,True,Online Order
+624,Red Velvet Cake,Cash,10.80855906767144,North,True,Online Order
+625,Carrot Cake,Credit Card,18.59858316008244,East,True,Online Order
+626,Pizza Beef Double decker,Online,5.240927974715092,South,False,Online Order
+627,Pizza Margherita,Credit Card,16.732568946368694,East,True,Online Order
+628,Chocolate Cake,Credit Card,6.865742468619865,West,False,In Store
+629,Vanilla Cake,Online,16.96321040805799,East,False,Phone Order
+630,Vanilla Cake,Cash,14.23867873515082,South,True,In Store
+631,Red Velvet Cake,Credit Card,17.649171364046033,East,False,Online Order
+632,Carrot Cake,Credit Card,6.462714884613462,South,True,Phone Order
+633,Pizza Beef Double decker,Online,13.384709511496611,West,True,Phone Order
+634,Cheesecake,Online,12.516318203932956,West,True,Online Order
+635,Vanilla Cake,Online,15.59289774445038,West,False,Online Order
+636,Pizza Beef Double decker,Online,13.014358278405137,North,True,Online Order
+637,Pizza Margherita,Online,13.111018506996563,West,True,Online Order
+638,Carrot Cake,Online,11.44393915364097,East,True,Online Order
+639,Pizza Pepperoni,Cash,9.632516360110111,North,False,Online Order
+640,Pizza Beef Double decker,Credit Card,12.233965418782883,West,True,Phone Order
+641,Pizza Margherita,Cash,6.777385381526009,East,False,Online Order
+642,Cheesecake,Cash,19.42270008474627,East,False,Online Order
+643,Chocolate Cake,Online,15.716161454398977,East,True,Phone Order
+644,Pizza Pepperoni,Credit Card,19.2870067503177,South,False,In Store
+645,Chocolate Cake,Cash,8.400910734949449,North,False,Online Order
+646,Cheesecake,Online,18.19011530264792,East,True,Phone Order
+647,Pizza Margherita,Online,17.131849768453076,South,True,Phone Order
+648,Vanilla Cake,Credit Card,15.157286186865106,West,True,In Store
+649,Chocolate Cake,Cash,14.375437791278086,East,False,Online Order
+650,Pizza Pepperoni,Cash,9.74824497901805,South,True,Online Order
+651,Red Velvet Cake,Cash,17.24616177447546,East,False,Online Order
+652,Fruit Cake,Online,12.522731922196009,North,False,Phone Order
+653,Pizza Beef Double decker,Credit Card,6.06337363836928,North,False,Online Order
+654,Vanilla Cake,Credit Card,9.69294741282695,West,False,Online Order
+655,Chocolate Cake,Cash,19.02945647817992,East,False,Online Order
+656,Pizza Beef Double decker,Online,17.760203909072693,South,True,Online Order
+657,Red Velvet Cake,Cash,19.728585471148087,West,True,In Store
+658,Cheesecake,Credit Card,14.419900739061472,East,False,In Store
+659,Fruit Cake,Online,8.712651097106178,West,False,In Store
+660,Pizza Margherita,Cash,7.442225745152957,South,True,Online Order
+661,Red Velvet Cake,Cash,7.8037166091269246,West,True,Online Order
+662,Red Velvet Cake,Online,5.296934875208816,West,False,Phone Order
+663,Cheesecake,Credit Card,10.860231664789088,West,False,Phone Order
+664,Carrot Cake,Online,7.871415207493138,East,True,Phone Order
+665,Cheesecake,Cash,11.174831906850535,South,True,Online Order
+666,Carrot Cake,Cash,19.02491647758148,North,False,In Store
+667,Carrot Cake,Cash,11.45810314260785,East,True,In Store
+668,Vanilla Cake,Cash,18.16976745477252,North,True,In Store
+669,Vanilla Cake,Credit Card,14.082571499238147,North,False,Online Order
+670,Pizza Pepperoni,Credit Card,8.706973319920879,East,False,In Store
+671,Chocolate Cake,Cash,10.337821388888171,East,False,Phone Order
+672,Chocolate Cake,Credit Card,6.258793037321441,South,True,Phone Order
+673,Pizza Margherita,Credit Card,10.001938903940156,South,False,In Store
+674,Chocolate Cake,Credit Card,15.163114182553011,West,True,Phone Order
+675,Vanilla Cake,Cash,6.081666393941528,North,False,In Store
+676,Pizza Pepperoni,Online,8.081021127170441,South,False,In Store
+677,Pizza Pepperoni,Online,10.721615621199671,West,True,Phone Order
+678,Carrot Cake,Online,19.73074305523944,South,True,Phone Order
+679,Cheesecake,Cash,16.772927344383202,East,False,Phone Order
+680,Pizza Margherita,Credit Card,16.002301197381556,South,False,Phone Order
+681,Carrot Cake,Credit Card,6.74286434788169,North,True,In Store
+682,Cheesecake,Cash,16.714938404224874,South,False,Phone Order
+683,Chocolate Cake,Cash,16.779032172740227,North,True,Phone Order
+684,Carrot Cake,Online,14.016540434364924,East,True,Online Order
+685,Pizza Beef Double decker,Online,19.855426729975576,North,False,Phone Order
+686,Chocolate Cake,Cash,9.878808588868278,South,True,Phone Order
+687,Cheesecake,Online,19.11908672362777,West,True,In Store
+688,Pizza Margherita,Credit Card,18.720966724347555,East,True,In Store
+689,Cheesecake,Cash,5.172209896240668,South,False,Online Order
+690,Carrot Cake,Cash,11.751747897122163,East,True,Phone Order
+691,Carrot Cake,Credit Card,19.6565634957736,East,False,Phone Order
+692,Red Velvet Cake,Credit Card,6.546820436121137,South,False,Phone Order
+693,Pizza Margherita,Credit Card,13.216770415749792,South,False,Phone Order
+694,Chocolate Cake,Online,19.684362605616563,West,True,Phone Order
+695,Pizza Pepperoni,Cash,13.332431361587902,East,True,Phone Order
+696,Pizza Margherita,Online,7.84722954458234,East,False,Online Order
+697,Pizza Pepperoni,Credit Card,13.732748451388847,South,False,Phone Order
+698,Pizza Margherita,Online,8.066608609243202,North,True,Phone Order
+699,Pizza Margherita,Credit Card,12.795563943417264,South,False,Phone Order
+700,Cheesecake,Online,6.11063326868522,East,False,Online Order
+701,Pizza Margherita,Online,14.082240038216067,South,True,Phone Order
+702,Red Velvet Cake,Credit Card,12.751849086922372,West,False,Online Order
+703,Carrot Cake,Online,16.10242053142195,North,True,In Store
+704,Fruit Cake,Cash,14.460507067381776,South,True,Phone Order
+705,Pizza Pepperoni,Online,13.24409402796135,West,False,Online Order
+706,Carrot Cake,Online,15.346682738721816,East,True,In Store
+707,Fruit Cake,Cash,7.159128703583463,South,True,Online Order
+708,Pizza Pepperoni,Credit Card,13.93039491887906,East,True,Online Order
+709,Pizza Pepperoni,Cash,7.581659042341665,West,False,In Store
+710,Fruit Cake,Online,18.88283311777821,East,False,Phone Order
+711,Pizza Margherita,Credit Card,6.025011572684063,West,False,Phone Order
+712,Chocolate Cake,Online,11.4556212453619,West,True,Online Order
+713,Pizza Beef Double decker,Online,15.436962164831671,West,True,In Store
+714,Carrot Cake,Cash,11.87033317502388,South,False,Phone Order
+715,Cheesecake,Cash,6.381428798493536,East,False,Online Order
+716,Carrot Cake,Credit Card,13.300685241900611,East,True,In Store
+717,Cheesecake,Credit Card,14.624478632410318,North,False,Online Order
+718,Fruit Cake,Credit Card,15.556884664857614,North,False,In Store
+719,Cheesecake,Online,10.598897216941385,North,False,Phone Order
+720,Pizza Pepperoni,Cash,13.454899565431433,North,False,Phone Order
+721,Chocolate Cake,Cash,11.760297124083696,East,False,Online Order
+722,Chocolate Cake,Cash,15.080840581283802,West,True,Phone Order
+723,Pizza Pepperoni,Credit Card,13.753354509872278,West,False,Phone Order
+724,Red Velvet Cake,Cash,12.886343293387023,South,False,In Store
+725,Fruit Cake,Cash,8.742865502573729,West,True,Phone Order
+726,Red Velvet Cake,Cash,5.0302777662235085,East,True,In Store
+727,Red Velvet Cake,Credit Card,7.611225129671439,East,True,In Store
+728,Carrot Cake,Cash,6.75599062136253,East,True,Online Order
+729,Carrot Cake,Credit Card,11.736271175164202,South,False,In Store
+730,Pizza Beef Double decker,Cash,14.18387226142767,North,False,Phone Order
+731,Cheesecake,Cash,8.196275130272124,West,False,In Store
+732,Pizza Pepperoni,Cash,19.085856439507808,East,False,In Store
+733,Carrot Cake,Credit Card,5.100231938358316,East,True,Online Order
+734,Fruit Cake,Credit Card,16.584515227480143,North,True,Phone Order
+735,Cheesecake,Cash,14.378071542956633,East,False,Phone Order
+736,Pizza Beef Double decker,Online,10.603322015715229,West,False,Phone Order
+737,Pizza Beef Double decker,Credit Card,5.757334166186119,South,False,In Store
+738,Fruit Cake,Credit Card,14.41229857676419,East,False,Phone Order
+739,Red Velvet Cake,Cash,10.78420269298472,West,True,Phone Order
+740,Chocolate Cake,Online,19.04400709119829,East,False,In Store
+741,Fruit Cake,Cash,13.129851123346487,North,True,Online Order
+742,Vanilla Cake,Credit Card,19.094772669402623,East,True,Online Order
+743,Fruit Cake,Credit Card,8.30725540209956,East,True,In Store
+744,Pizza Beef Double decker,Cash,15.88588865546155,South,True,Online Order
+745,Pizza Pepperoni,Cash,14.258735312730884,North,False,Online Order
+746,Carrot Cake,Online,16.091123447469677,North,False,Online Order
+747,Pizza Pepperoni,Online,8.220017959588052,South,False,Phone Order
+748,Pizza Beef Double decker,Credit Card,14.974917743566603,East,False,Online Order
+749,Carrot Cake,Online,12.470605895853032,West,True,Phone Order
+750,Vanilla Cake,Online,16.142374623594744,North,True,Online Order
+751,Chocolate Cake,Credit Card,9.905669662277266,North,True,Phone Order
+752,Cheesecake,Credit Card,18.35085538197879,East,False,In Store
+753,Pizza Beef Double decker,Credit Card,6.264519719170256,East,True,In Store
+754,Pizza Beef Double decker,Credit Card,17.10783978186782,North,True,Online Order
+755,Pizza Beef Double decker,Cash,17.91979438722636,East,True,Phone Order
+756,Carrot Cake,Credit Card,17.258784670502315,West,True,In Store
+757,Pizza Margherita,Credit Card,12.69089591392664,North,False,In Store
+758,Fruit Cake,Credit Card,11.57577470046142,West,True,In Store
+759,Pizza Margherita,Online,19.943934297873152,West,True,In Store
+760,Vanilla Cake,Credit Card,8.437579268212431,East,False,Online Order
+761,Chocolate Cake,Cash,13.20313948814067,West,False,Phone Order
+762,Red Velvet Cake,Cash,15.060132880734884,East,False,In Store
+763,Vanilla Cake,Credit Card,15.51301453792148,South,True,Online Order
+764,Red Velvet Cake,Cash,8.06036998607868,East,True,In Store
+765,Red Velvet Cake,Online,14.80991138509702,West,True,In Store
+766,Chocolate Cake,Credit Card,17.27554349722006,South,True,In Store
+767,Pizza Pepperoni,Cash,5.750278652316683,East,False,In Store
+768,Pizza Margherita,Cash,18.67281939987975,West,True,Online Order
+769,Pizza Beef Double decker,Credit Card,5.442560827178089,North,True,Phone Order
+770,Cheesecake,Cash,10.339565487325917,North,False,Online Order
+771,Red Velvet Cake,Credit Card,5.237197943494431,East,False,Online Order
+772,Vanilla Cake,Cash,6.157177528093728,East,False,Online Order
+773,Pizza Pepperoni,Online,18.667524277701187,North,True,In Store
+774,Red Velvet Cake,Cash,10.322912461192216,West,True,Phone Order
+775,Pizza Pepperoni,Cash,11.371572956375791,West,True,In Store
+776,Pizza Pepperoni,Credit Card,8.23016572073829,West,True,Online Order
+777,Red Velvet Cake,Cash,13.956436552800795,East,True,In Store
+778,Carrot Cake,Credit Card,13.922048220166843,South,False,Phone Order
+779,Fruit Cake,Online,10.58300587737829,South,False,Phone Order
+780,Pizza Beef Double decker,Credit Card,9.995523077080977,South,True,In Store
+781,Pizza Beef Double decker,Credit Card,18.274464622708816,South,True,Online Order
+782,Carrot Cake,Cash,10.74926359463302,South,True,In Store
+783,Pizza Beef Double decker,Online,12.402514882316122,East,True,Online Order
+784,Pizza Pepperoni,Credit Card,9.24957143637396,East,True,Phone Order
+785,Chocolate Cake,Cash,16.80154255035691,South,False,In Store
+786,Vanilla Cake,Cash,10.961722353486374,East,False,Phone Order
+787,Pizza Margherita,Credit Card,12.704165698164868,East,False,Online Order
+788,Pizza Beef Double decker,Cash,8.80035755089492,South,True,Online Order
+789,Chocolate Cake,Credit Card,19.81489388511877,West,True,In Store
+790,Red Velvet Cake,Credit Card,9.372436113855844,East,False,In Store
+791,Fruit Cake,Credit Card,16.561137963583278,West,False,In Store
+792,Pizza Pepperoni,Online,11.412434755351388,East,True,Phone Order
+793,Fruit Cake,Credit Card,8.093261076262099,East,False,Online Order
+794,Vanilla Cake,Cash,16.995781459472916,South,False,Online Order
+795,Vanilla Cake,Online,10.004101835435648,East,True,Phone Order
+796,Carrot Cake,Cash,17.977900210967164,North,False,In Store
+797,Cheesecake,Online,18.728857773767345,North,False,In Store
+798,Carrot Cake,Online,17.897357530869137,South,False,Phone Order
+799,Chocolate Cake,Online,5.525118722102085,West,True,Online Order
+800,Fruit Cake,Online,16.810600175076583,West,False,Online Order
+801,Cheesecake,Cash,11.17009199748716,West,False,Online Order
+802,Red Velvet Cake,Credit Card,18.10584380273337,North,False,Online Order
+803,Pizza Pepperoni,Cash,14.569313940271082,West,True,Phone Order
+804,Fruit Cake,Credit Card,17.504647012159374,West,True,Online Order
+805,Carrot Cake,Cash,12.491476548002533,South,False,Phone Order
+806,Pizza Margherita,Online,13.025382568983993,West,True,In Store
+807,Cheesecake,Online,7.1658144820050085,North,False,Phone Order
+808,Cheesecake,Credit Card,16.759810380340333,North,True,Online Order
+809,Pizza Pepperoni,Credit Card,11.290844175004574,North,True,In Store
+810,Pizza Beef Double decker,Cash,12.501201774073738,South,False,Phone Order
+811,Vanilla Cake,Credit Card,16.776465711435613,South,False,Phone Order
+812,Vanilla Cake,Cash,13.982681001191583,East,False,Phone Order
+813,Pizza Margherita,Credit Card,8.016480911640011,West,True,In Store
+814,Chocolate Cake,Credit Card,13.853489887263391,South,False,Phone Order
+815,Chocolate Cake,Credit Card,11.114492869694836,North,True,Online Order
+816,Red Velvet Cake,Online,12.04288313065794,North,True,In Store
+817,Fruit Cake,Online,5.424669116040016,South,False,In Store
+818,Pizza Beef Double decker,Cash,8.150440242744224,South,True,Phone Order
+819,Carrot Cake,Credit Card,9.215571220715423,South,False,Online Order
+820,Cheesecake,Cash,15.694400117882086,East,True,In Store
+821,Pizza Margherita,Credit Card,5.17238709947173,North,False,Phone Order
+822,Vanilla Cake,Online,11.13165891843698,East,True,Online Order
+823,Red Velvet Cake,Online,18.86040305638599,East,True,Phone Order
+824,Chocolate Cake,Credit Card,6.678209248236858,West,False,Phone Order
+825,Pizza Margherita,Credit Card,12.746365823279168,North,True,In Store
+826,Cheesecake,Online,16.797835735862705,North,False,In Store
+827,Carrot Cake,Online,19.13796961280175,South,True,Phone Order
+828,Red Velvet Cake,Cash,16.20164959300577,South,True,In Store
+829,Cheesecake,Online,15.808483229666091,West,True,In Store
+830,Vanilla Cake,Credit Card,17.397321352936437,East,False,Online Order
+831,Vanilla Cake,Cash,11.693018314663156,South,False,Online Order
+832,Vanilla Cake,Credit Card,17.087667989267494,South,False,Phone Order
+833,Pizza Margherita,Cash,5.119466071181767,North,False,Phone Order
+834,Pizza Margherita,Credit Card,18.86841583065208,North,False,Phone Order
+835,Chocolate Cake,Online,11.64959764275763,South,True,Phone Order
+836,Chocolate Cake,Credit Card,13.300702817986211,North,True,Online Order
+837,Carrot Cake,Cash,8.823233733723235,West,False,In Store
+838,Red Velvet Cake,Credit Card,16.13796249260632,South,True,Online Order
+839,Pizza Pepperoni,Cash,6.149537097128732,North,True,Phone Order
+840,Pizza Pepperoni,Credit Card,18.08953703820253,West,True,Phone Order
+841,Cheesecake,Online,17.421752435095144,North,True,Online Order
+842,Vanilla Cake,Online,8.240901743671497,North,False,Online Order
+843,Red Velvet Cake,Credit Card,17.139865974278933,North,True,Phone Order
+844,Pizza Margherita,Credit Card,16.79536599592222,South,False,In Store
+845,Fruit Cake,Credit Card,14.483248966309237,East,False,Phone Order
+846,Pizza Beef Double decker,Cash,10.602802653495312,North,True,Online Order
+847,Carrot Cake,Credit Card,9.072481312728016,West,False,Phone Order
+848,Vanilla Cake,Credit Card,8.47675385434025,South,True,Phone Order
+849,Vanilla Cake,Cash,9.779134441454108,South,True,In Store
+850,Vanilla Cake,Online,18.553376651487955,West,True,Phone Order
+851,Pizza Margherita,Credit Card,6.164611639831719,North,False,Phone Order
+852,Pizza Margherita,Credit Card,17.43306914379438,East,False,Phone Order
+853,Pizza Beef Double decker,Online,10.233351125627356,North,False,Online Order
+854,Red Velvet Cake,Online,12.823990940170372,West,True,Online Order
+855,Vanilla Cake,Cash,16.917284504727363,South,True,In Store
+856,Pizza Pepperoni,Credit Card,18.26564820534457,East,True,Phone Order
+857,Chocolate Cake,Credit Card,10.171721301089704,South,False,Online Order
+858,Pizza Pepperoni,Cash,11.927652219126657,West,True,In Store
+859,Cheesecake,Online,11.217740972251883,North,True,Phone Order
+860,Pizza Pepperoni,Cash,5.1987655025586585,East,False,In Store
+861,Cheesecake,Online,9.43914333287985,South,False,In Store
+862,Fruit Cake,Cash,11.887838505988428,South,False,In Store
+863,Chocolate Cake,Online,11.166404133206598,South,True,In Store
+864,Pizza Pepperoni,Cash,15.82893841273519,North,True,In Store
+865,Fruit Cake,Online,10.772054258316548,East,True,In Store
+866,Carrot Cake,Online,12.340646734560051,North,False,In Store
+867,Red Velvet Cake,Online,11.44412888198545,North,False,Phone Order
+868,Fruit Cake,Online,16.109392233415555,North,False,Phone Order
+869,Red Velvet Cake,Online,17.94458598480444,West,False,In Store
+870,Pizza Pepperoni,Credit Card,12.978336185112711,West,True,Phone Order
+871,Fruit Cake,Online,16.841482912927866,West,True,In Store
+872,Chocolate Cake,Credit Card,9.45180023029776,East,True,Phone Order
+873,Pizza Pepperoni,Online,13.120544152359033,North,True,Online Order
+874,Vanilla Cake,Credit Card,10.178449305049586,North,True,In Store
+875,Pizza Margherita,Credit Card,11.213013883577457,West,True,Online Order
+876,Fruit Cake,Cash,15.986207972190028,North,True,In Store
+877,Chocolate Cake,Online,18.22493723499069,North,True,In Store
+878,Carrot Cake,Cash,6.822430866316481,South,False,Online Order
+879,Vanilla Cake,Cash,14.519588847310708,North,False,Online Order
+880,Carrot Cake,Online,13.732157113666975,South,True,Online Order
+881,Pizza Pepperoni,Cash,6.776225587638978,North,False,In Store
+882,Pizza Margherita,Online,8.178414956601635,East,True,Online Order
+883,Fruit Cake,Cash,9.665037420990204,West,True,Online Order
+884,Fruit Cake,Online,7.503966062262522,South,False,Phone Order
+885,Pizza Pepperoni,Online,8.655942237865126,West,True,Phone Order
+886,Pizza Pepperoni,Online,9.014011982925611,South,True,Online Order
+887,Pizza Margherita,Credit Card,10.035107495585894,South,True,Online Order
+888,Chocolate Cake,Cash,16.240856792017386,South,True,Online Order
+889,Chocolate Cake,Credit Card,13.57868305775901,East,True,Online Order
+890,Pizza Margherita,Cash,19.793700079271023,North,True,Phone Order
+891,Chocolate Cake,Cash,11.221037404512066,South,True,In Store
+892,Cheesecake,Cash,16.307976107553877,East,False,Online Order
+893,Red Velvet Cake,Credit Card,18.072026320648007,South,False,Online Order
+894,Pizza Margherita,Cash,15.18467739557063,North,True,Phone Order
+895,Pizza Margherita,Credit Card,11.17797110626244,South,False,Online Order
+896,Pizza Beef Double decker,Online,16.303919461186297,East,True,Online Order
+897,Vanilla Cake,Cash,8.055007066590273,North,True,Phone Order
+898,Vanilla Cake,Cash,9.913282477701989,East,True,Online Order
+899,Cheesecake,Online,13.200278826489331,North,True,Online Order
+900,Pizza Pepperoni,Online,13.631140809292225,North,False,Phone Order
+901,Pizza Pepperoni,Cash,5.332122132089442,West,False,In Store
+902,Carrot Cake,Online,19.176712831340133,West,False,Online Order
+903,Cheesecake,Credit Card,15.44940906826085,West,False,Online Order
+904,Pizza Margherita,Credit Card,12.435556253478364,North,True,In Store
+905,Cheesecake,Cash,18.996908516124627,South,False,Phone Order
+906,Cheesecake,Credit Card,11.586433478762428,East,True,In Store
+907,Cheesecake,Credit Card,19.70653355405557,East,True,Online Order
+908,Vanilla Cake,Cash,12.684271358652277,East,False,In Store
+909,Cheesecake,Online,6.714286549969692,West,True,Phone Order
+910,Red Velvet Cake,Cash,16.47201458688916,North,False,Online Order
+911,Pizza Pepperoni,Credit Card,15.183465876167608,West,False,Phone Order
+912,Carrot Cake,Cash,16.594800819583803,South,False,Phone Order
+913,Red Velvet Cake,Cash,19.271630430885217,North,False,In Store
+914,Carrot Cake,Credit Card,16.64733953976527,East,False,In Store
+915,Pizza Beef Double decker,Credit Card,14.170049033249704,West,True,Phone Order
+916,Carrot Cake,Cash,17.859633535412613,West,False,Phone Order
+917,Pizza Pepperoni,Credit Card,15.098696590317973,South,False,Online Order
+918,Pizza Pepperoni,Credit Card,11.121785852388848,South,True,Phone Order
+919,Cheesecake,Credit Card,18.2842964636266,West,False,Phone Order
+920,Fruit Cake,Credit Card,8.328506911765594,South,False,In Store
+921,Pizza Beef Double decker,Credit Card,15.719619123630864,East,True,Phone Order
+922,Pizza Margherita,Credit Card,18.22345182411136,South,True,Phone Order
+923,Chocolate Cake,Online,15.969747795549443,South,False,In Store
+924,Carrot Cake,Cash,15.459131285807851,West,True,Online Order
+925,Fruit Cake,Credit Card,16.28957441107754,West,False,In Store
+926,Cheesecake,Cash,11.975828724509665,North,True,In Store
+927,Vanilla Cake,Online,18.112560232355392,North,False,Phone Order
+928,Pizza Margherita,Credit Card,8.051547127041367,West,False,Phone Order
+929,Fruit Cake,Cash,6.910796240005089,South,False,Online Order
+930,Vanilla Cake,Credit Card,9.282631701777674,South,True,Phone Order
+931,Pizza Beef Double decker,Credit Card,12.973660951624897,North,False,Online Order
+932,Cheesecake,Credit Card,12.65842693114007,North,True,Online Order
+933,Pizza Margherita,Credit Card,17.3089813651488,North,False,Online Order
+934,Pizza Margherita,Credit Card,11.068529846060262,East,False,Online Order
+935,Pizza Margherita,Credit Card,12.26516639437263,East,False,Phone Order
+936,Pizza Beef Double decker,Credit Card,5.200515248890935,North,False,In Store
+937,Carrot Cake,Online,11.146088546644089,South,False,In Store
+938,Pizza Beef Double decker,Online,14.716613494255132,North,True,Phone Order
+939,Chocolate Cake,Credit Card,5.2326249593988825,East,True,Phone Order
+940,Pizza Pepperoni,Credit Card,9.213229477793655,South,True,Online Order
+941,Cheesecake,Online,8.119345389340848,East,False,Phone Order
+942,Pizza Beef Double decker,Online,5.629781433643823,South,False,In Store
+943,Vanilla Cake,Online,12.188901348718062,East,True,Phone Order
+944,Chocolate Cake,Credit Card,7.725849398422348,South,False,Phone Order
+945,Pizza Pepperoni,Cash,16.146223094470702,South,False,Online Order
+946,Carrot Cake,Cash,17.718918256450227,South,False,Online Order
+947,Vanilla Cake,Cash,13.183777740037216,South,True,Online Order
+948,Cheesecake,Cash,19.72561013781712,West,True,Online Order
+949,Vanilla Cake,Credit Card,11.75717857205893,East,True,In Store
+950,Pizza Pepperoni,Cash,12.700523153373734,East,True,Phone Order
+951,Vanilla Cake,Online,19.83826630936625,West,True,Phone Order
+952,Red Velvet Cake,Online,8.473226539475732,South,False,Online Order
+953,Fruit Cake,Cash,19.13818909515357,South,False,In Store
+954,Carrot Cake,Online,5.642563326786699,East,False,In Store
+955,Pizza Pepperoni,Credit Card,11.69580335394792,West,False,Phone Order
+956,Vanilla Cake,Cash,6.050052681995987,South,True,Online Order
+957,Fruit Cake,Cash,15.938521143704644,South,True,Phone Order
+958,Fruit Cake,Credit Card,14.126134038200266,South,False,Phone Order
+959,Vanilla Cake,Online,15.599513952013949,North,True,In Store
+960,Cheesecake,Credit Card,10.617205999520255,West,False,In Store
+961,Red Velvet Cake,Credit Card,10.542229010470704,South,False,Phone Order
+962,Pizza Beef Double decker,Online,5.679789184413419,North,False,Online Order
+963,Red Velvet Cake,Credit Card,10.249174092944596,West,False,Online Order
+964,Vanilla Cake,Online,18.93932603393089,South,True,Phone Order
+965,Carrot Cake,Online,10.688398057706737,East,False,Phone Order
+966,Pizza Beef Double decker,Credit Card,17.47051559332955,North,True,Online Order
+967,Pizza Pepperoni,Online,17.634882571249012,North,False,Online Order
+968,Red Velvet Cake,Credit Card,10.598617345688506,South,False,Online Order
+969,Vanilla Cake,Online,14.479830205942836,South,False,Phone Order
+970,Red Velvet Cake,Cash,6.43057403409588,North,False,In Store
+971,Pizza Beef Double decker,Online,6.555178711014147,East,True,Online Order
+972,Chocolate Cake,Online,5.7298649549257,East,False,Online Order
+973,Red Velvet Cake,Credit Card,13.715226400626642,West,True,Online Order
+974,Pizza Pepperoni,Online,11.391064664391456,South,False,Phone Order
+975,Pizza Pepperoni,Cash,13.2204853499636,East,False,In Store
+976,Pizza Margherita,Cash,12.816097857625817,West,False,In Store
+977,Red Velvet Cake,Online,10.253044866360954,East,True,Online Order
+978,Cheesecake,Online,15.162101222352094,South,False,Phone Order
+979,Fruit Cake,Cash,16.37752821374586,West,False,In Store
+980,Fruit Cake,Credit Card,5.219423883165136,West,False,Phone Order
+981,Fruit Cake,Cash,8.108634496533174,West,False,In Store
+982,Chocolate Cake,Cash,15.698538021250052,East,False,Online Order
+983,Pizza Margherita,Online,10.799302589507512,South,True,Phone Order
+984,Chocolate Cake,Online,14.937259204124125,West,True,Online Order
+985,Red Velvet Cake,Cash,10.204439896018377,North,False,In Store
+986,Red Velvet Cake,Credit Card,10.861327284944556,South,False,In Store
+987,Red Velvet Cake,Cash,7.3801831053452736,North,True,Online Order
+988,Carrot Cake,Cash,8.8734652949924,North,False,In Store
+989,Fruit Cake,Credit Card,14.081176362613808,West,True,Online Order
+990,Carrot Cake,Cash,11.497446669727497,West,False,Online Order
+991,Pizza Margherita,Cash,16.61454024416893,East,False,Online Order
+992,Chocolate Cake,Online,17.788774324075142,East,True,In Store
+993,Fruit Cake,Credit Card,13.1246962732514,East,False,Phone Order
+994,Carrot Cake,Online,16.37400938084089,South,True,Online Order
+995,Carrot Cake,Online,9.60356769791855,East,True,Phone Order
+996,Vanilla Cake,Credit Card,11.224568231001172,North,True,In Store
+997,Carrot Cake,Credit Card,15.691665143252465,East,False,In Store
+998,Cheesecake,Cash,10.79317989225546,West,True,Phone Order
+999,Cheesecake,Online,13.827574027384832,East,True,Online Order
+1000,Chocolate Cake,Credit Card,7.780591686237672,South,False,In Store
