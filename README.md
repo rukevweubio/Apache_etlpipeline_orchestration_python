@@ -1,5 +1,5 @@
 
-## project summary
+## Project Summary
 zipco  Food is a vibrant and growing business that specializes in the sales of pizza and cake.
 As a key player in the fast-casual dining industry, Zipco Food operates 
 numerous outlets across the country, serving a wide variety of pizzas and cakes that 
@@ -9,7 +9,7 @@ and engineering solutions to enhance operational efficiency, improve product off
 
 
 
-## business statement 
+## Business Statement 
 zipco Food generates a significant amount of data daily, which is currently underutilized due to inefficient data handling and analysis processes.
 The primary challenge is the disparate nature of data collection and storage,with critical sales and inventory information scattered 
 across multiple CSV files without a unified system for aggregation and analysis. This fragmentation leads to operational inefficiencies,
